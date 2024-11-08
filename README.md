@@ -1,2 +1,3 @@
 # DSA-LAB-02
-akbar
+ArrayList and Vector in JAVA
+OBJECTIVE: To implement ArrayList and Vector
